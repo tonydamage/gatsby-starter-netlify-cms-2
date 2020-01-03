@@ -1,7 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: LARP solutions for you
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
@@ -77,13 +76,13 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for starting LARPs with not a lot requirements
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
+        - Directus CMS installation
+        - LARP database model
+        - Site generation
+      plan: Nano
+      price: '0'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
